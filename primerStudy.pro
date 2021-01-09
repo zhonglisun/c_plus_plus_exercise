@@ -4,8 +4,10 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
+        ChapterSeven.cpp \
         ChapterSix.cpp \
         main.cpp
 
 HEADERS += \
+    ChapterSeven.h \
     ChapterSix.h
